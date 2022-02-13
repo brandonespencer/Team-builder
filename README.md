@@ -11,9 +11,10 @@ Use of Node.js to create a command line application.
 
 Use of Javascript ES6 classes and subclasses and Inquirer package to dynamically generate a final engineering team roster file.
 
-Please refer to the video of application testing and deployed application within this repo.
+Please refer to the video/pic of application testing and deployed application within this repo.
 
 
 
 https://user-images.githubusercontent.com/46231696/153750078-c9b67b4a-2963-4702-bf9d-2c4101a2747f.mp4
 
+<img width="1440" alt="Screen Shot 2022-02-13 at 2 15 57 AM" src="https://user-images.githubusercontent.com/46231696/153750096-bbbdb873-d816-4886-b7ac-8ed3e4386e46.png">
